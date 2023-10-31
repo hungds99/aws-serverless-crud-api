@@ -1,5 +1,6 @@
 # A Simple CRUD API using CDK TypeScript
-![Screenshot 2023-10-30 at 15 39 51](https://github.com/hungds99/aws-serverless-crud-api/assets/34293141/ef8b2b18-224c-4fd2-8b12-4ede2078eceb)
+
+![Screenshot 2023-10-30 at 15 39 51](https://github.com/hungds99/aws-serverless-crud-api/assets/34293141/7a09e4b3-f9f6-4c29-81ef-861d680dd9a2)
 
 You should explore the contents of this project. It demonstrates a CDK app with stacks:
   - `dynamodbCdkStack`: Build dynamodb table
